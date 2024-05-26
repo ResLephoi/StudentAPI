@@ -1,0 +1,27 @@
+[
+  {
+    "Id": 1,
+    "FullName": "John Doe",
+    "StudentNumber": 581664721
+  },
+  {
+    "Id": 2,
+    "FullName": "Thanos",
+    "StudentNumber": 581664412
+  },
+  {
+    "Id": 3,
+    "FullName": "Ric Smith",
+    "StudentNumber": 581664178
+  },
+  {
+    "Id": 4,
+    "FullName": "Resego Lephoi",
+    "StudentNumber": 541264711
+  },
+  {
+    "Id": 5,
+    "FullName": "Peter Parker",
+    "StudentNumber": 584659921
+  }
+]
